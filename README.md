@@ -15,7 +15,7 @@ An end-to-end Machine Learning Project carried out by Group 3 Zummit Africa AI/M
 - **NNEJI IFEANYI DANIEL**
 - **IFEZUE TOONNAEMEKA HILARY**
 - **SOMTOCHUKWU OGUCHIENTI**
-- ** THANKGOD ONMEJE**
+- **THANKGOD ONMEJE**
 
 You can check out the article on Medium describing in detail how this project was carried out.
 
